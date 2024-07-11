@@ -2,7 +2,7 @@ import json
 import os
 
 import flet as ft
-from flet_core import *
+from flet import *
 
 from app import DataBase, config
 from app.config import GlobalConfigs
